@@ -1,4 +1,4 @@
-<h1>Vacation Exploration</h1>
+<h1><a href="https://main.d1onofnofz7ttl.amplifyapp.com">Vacation Exploration</a></h1>
 <p>
   Vacation Exploration is a website that helps people find the vacation that they would like to go on.
 </p>
